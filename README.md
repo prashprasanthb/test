@@ -73,7 +73,7 @@ $ npx vitest
 
 ## Sponsors
 
-### Anthony Fu Sponsors
+### Anthony Fu Sponsors.
 
 <p align="center">
   <a href="https://cdn.jsdelivr.net/gh/antfu/static/sponsors.svg">
